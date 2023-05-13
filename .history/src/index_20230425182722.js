@@ -6,7 +6,6 @@ import Footer from './Components/Footer/Footer';
 import App from './Components/App/App';
 import reportWebVitals from './reportWebVitals';
 import From from './Components/Form/Form';
-import DrinkMenu from './Components/body/DrinkMenu';
 // import RightContent from './components/Content/RightContent';
 
 
@@ -19,7 +18,7 @@ root.render(
     {/* <App></App> */}
     {/* <From></From>
     <Footer></Footer> */}
-    <DrinkMenu></DrinkMenu>
+    <
 
 
   </React.StrictMode>//đóng react

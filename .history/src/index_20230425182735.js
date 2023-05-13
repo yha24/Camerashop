@@ -19,7 +19,7 @@ root.render(
     {/* <App></App> */}
     {/* <From></From>
     <Footer></Footer> */}
-    <DrinkMenu></DrinkMenu>
+    <DrinkMenu
 
 
   </React.StrictMode>//đóng react

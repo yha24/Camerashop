@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Header from './Components/Header/Header';
-import Footer from './Components/Footer/Footer';
-import App from './Components/App/App';
-import reportWebVitals from './reportWebVitals';
-import From from './Components/Form/Form';
+// import Header from './Components/Header/Header';
+// import Footer from './Components/Footer/Footer';
+// import App from './Components/App/App';
+// import reportWebVitals from './reportWebVitals';
+// import From from './Components/Form/Form';
 import DrinkMenu from './Components/body/DrinkMenu';
 // import RightContent from './components/Content/RightContent';
 
