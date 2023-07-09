@@ -1,0 +1,11 @@
+.item{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    border: solid 1px gray;
+   
+}
+
+.item .item-image {
+    height: 200px;
+    
+}
